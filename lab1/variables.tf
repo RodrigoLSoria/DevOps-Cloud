@@ -50,3 +50,7 @@ variable "traffic_rules" {
     destination_address_prefix = string
   }))
 }
+
+variable "nsgs" {
+
+}
